@@ -1,5 +1,5 @@
 # 🚗 Car Price Prediction using Machine Learning  
-### CodeAlpha Data Science Internship – Task 3
+
 
 ---
 ## 📖 Project Overview
@@ -135,8 +135,4 @@ The Random Forest model provided better accuracy and can be used for real-world 
 
 ---
 
-## 🔗 GitHub Repository Naming Format (As per Internship Instructions)
 
-Repository Name:
-```
-CodeAlpha_CarPricePrediction
