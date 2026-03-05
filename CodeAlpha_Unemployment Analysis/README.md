@@ -96,13 +96,13 @@ This helped in identifying which months generally had higher unemployment.
 2. Install required libraries:
 
    ```
-   pip install pandas matplotlib seaborn
+    pip install pandas matplotlib seaborn
    ```
 
 3. Run the Python file:
 
    ```
-   python unemployment_analysis.py
+    python unemployment_analysis.py
    ```
 
 ---
